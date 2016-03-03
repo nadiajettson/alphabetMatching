@@ -29,16 +29,16 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
                     "M", "N", "O", "P", "Q", "R",
                     "S", "T", "U", "V", "W", "X", "Y", "Z"]
     
-//    let images: [UIImage] = [UIImage(named: "shark.png")!,
-//                            UIImage(named: "nemo.png")!,
-//                            UIImage(named: "nemo2.png")!,
-//                            UIImage(named: "seagull.png")!,
-//                            UIImage(named: "lobster.png")!,
-//                            UIImage(named: "octupus.png")!,
-//                            UIImage(named: "seal.png")!,
-//                            UIImage(named: "turtle.png")!,
-//                            UIImage(named: "dolphin.png")!,
-//                            UIImage(named: "seahorse.png")!]
+    let images: [UIImage] = [UIImage(named: "shark.png")!,
+                            UIImage(named: "nemo.png")!,
+                            UIImage(named: "nemo2.png")!,
+                            UIImage(named: "seagull.png")!,
+                            UIImage(named: "lobster.png")!,
+                            UIImage(named: "octupus.png")!,
+                            UIImage(named: "seal.png")!,
+                            UIImage(named: "turtle.png")!,
+                            UIImage(named: "dolphin.png")!,
+                            UIImage(named: "seahorse.png")!]
     
     
 
